@@ -1,0 +1,10 @@
+.slider{
+  width: 470px;
+  margin-right: 15px;
+}
+
+.slider-wrap{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

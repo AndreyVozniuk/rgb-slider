@@ -1,0 +1,35 @@
+.wrap{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.sliders{
+  display: flex;
+  flex-direction: column;
+}
+
+.color-block{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 200px;
+  height: 200px;
+}
+
+.content{
+  margin-top: 50px;
+}
+
+.result{
+  display: flex;
+  align-items: center;
+}
+
+.result>:nth-child(1){
+  margin-right: 5px;
+}
+
+.result>:nth-child(2){
+  margin-bottom: -3px;
+}
