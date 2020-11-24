@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88afb43f98b8afe1e029fb2a49ab1d59",
+    "revision": "c7a14b305c4b80185d97c9b639b092c4",
     "url": "/rgb-slider/index.html"
   },
   {
